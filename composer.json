@@ -1,0 +1,17 @@
+{
+    "name": "pipoleong/time",
+    "description": "testing",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Pipoleong\\Time\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Pipo leong",
+            "email": "leongpipo2000@gmail.com"
+        }
+    ],
+    "require": {}
+}
